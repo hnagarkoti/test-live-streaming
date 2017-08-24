@@ -1,0 +1,21 @@
+{
+  "name": "drone-live",
+  "version": "1.0.0",
+  "description": "live video and audio streaming",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio",
+    "video",
+    "streaming"
+  ],
+  "author": "Hemant Nagarkoti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "log": "^1.4.0",
+    "socket.io": "^2.0.3"
+  }
+}
